@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Crop System</string>
+    <string name="linear_two">linear_two</string>
+    <string name="linear_one">linear_one</string>
+    <string name="temperature">Temperature</string>
+    <string name = "humidity">Humidity</string>
+</resources>
